@@ -28,6 +28,11 @@ namespace AcibademCaseStudy.Controllers
         {
             try
             {
+                if (appointments == null)
+                {
+                    return BadRequest(new { ErrorMessage = "Parametre geçersiz." });
+                }
+
                 _repository.Create(appointments);
 
                 return Ok();

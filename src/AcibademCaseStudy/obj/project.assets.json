@@ -5007,11 +5007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\AcibademCaseStudy\\AcibademCaseStudy.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\src\\AcibademCaseStudy\\AcibademCaseStudy.csproj",
       "projectName": "AcibademCaseStudy",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\AcibademCaseStudy\\AcibademCaseStudy.csproj",
+      "projectPath": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\src\\AcibademCaseStudy\\AcibademCaseStudy.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\AcibademCaseStudy\\obj\\",
+      "outputPath": "C:\\Users\\asus\\source\\repos\\AcibademCaseStudy\\src\\AcibademCaseStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
